@@ -16,3 +16,7 @@ def describe_dummy_kata():
     def should_return_string_of_999():
         """🧪 should get '999' when the input is 999"""
         assert convert_number_to_string.number_to_string(999) == "999"
+
+    def should_return_string_of_negative_100():
+        """🧪 should get '-100' when the input is -100"""
+        assert convert_number_to_string.number_to_string(-100) == "-100"
