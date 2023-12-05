@@ -7,3 +7,17 @@
 [![Can I Deploy main to test](https://gotreasa.pactflow.io/pacticipants/convert_a_number_to_a_string_in_python_app/branches/main/latest-version/can-i-deploy/to-environment/test/badge)](https://gotreasa.pactflow.io/hal-browser/browser.html#https://gotreasa.pactflow.io/pacticipants/convert_a_number_to_a_string_in_python_app/branches/main/latest-version/can-i-deploy/to-environment/test/badge)
 
 Welcome to the Python Template created via a cookiecutter recipe. The project template is designed for a development via a `Double Loop approach` (BDD-TDD) using pytest and several other pytest libs.
+
+## Description
+
+We need a function that can transform a number (integer) into a string.
+
+What ways of achieving this do you know?
+
+Examples (input --> output):
+
+```
+123  --> "123"
+999  --> "999"
+-100 --> "-100"
+```
